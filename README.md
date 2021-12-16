@@ -1,6 +1,8 @@
 # Import script in maya python
 
-How to import scripts and make your projets modular
+How to import scripts and make your projets modular.
+You can see my tutorial on my website 
+
 ## Sommaire
 1. [Problematic](#Problematic)
 2. [Maya and path not a good love storie](#Maya-and-path-not-a-good-love-storie)
